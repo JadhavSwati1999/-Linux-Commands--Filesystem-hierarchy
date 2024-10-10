@@ -13,6 +13,7 @@ Linux Basic commands and Filesystem hierarchy
 5. **date** -current date ,time, year, seonds
 6. **date -s**  used for date set 
 7. **cal**  used to view current month calender
+8. $echo shell used to view the current shell type.
 
 **cal -s**  Displays sunday as the first day of the week
 
