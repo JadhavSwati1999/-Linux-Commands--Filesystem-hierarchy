@@ -36,7 +36,7 @@ Linux Basic commands and Filesystem hierarchy
 **free -h**  the storage is shown in human readable format 
 
 1. **whoami** - to see user
-2. **uname** - name of the operating system i.e kernel information 
+2. **uname** - name of the operating system i.e kernel information.
 
 **uname -v**  to known the version of the kernel 
 
