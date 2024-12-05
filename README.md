@@ -1,5 +1,5 @@
 # Linux-Commands--Filesystem-hierarchy.
-Linux Basic commands and Filesystem hierarchy
+Linux Basic commands and Filesystem hierarchy.
 # 19 Directories & Basic Commands.
 
 
