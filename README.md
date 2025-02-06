@@ -4,7 +4,7 @@ Linux Basic commands and Filesystem hierarchy.
 
 
 
-# Basic Commands
+# Basic Commands.
 
 1. **pwd** - print/present working directory.
 2. **ls(list in series)** - list a file &directory 
